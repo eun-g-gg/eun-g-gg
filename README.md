@@ -2,9 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=d9a6a6&height=240&text=Hello%20🤟%20I'm%20FrontEnd%20Developer&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 페이스트리스러운 개발자 </h2>  
+<!--     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 페이스트리스러운 개발자 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 저는 페이스트리같은 다양한 레이어가 있는 삶을 추구합니다.</li><li> 나의 기술로 여러 겹의 세상을 만들고 싶습니다.</li><li> 다양한 기술을 배우는 것에 두려움을 느끼는 것 보다 그 배움의 가치를 믿어 새로운 도전을 주저하지 않습니다.</li><li> 자만하지 않고 늘 배우며 나를 가꾸어 나가고자 합니다. </div> 
-    </div>
+    </div> -->
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
