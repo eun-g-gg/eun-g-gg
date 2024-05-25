@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=d9a6a6&height=240&text=This%20is%20Eung&animation=fadeIn&fontColor=black&fontSize=90" />
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=240&text=This%20is%20Eung&animation=fadeIn&fontColor=black&fontSize=90" />
     </div>
     <div style="text-align: left;"> 
 <!--     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 페이스트리스러운 개발자 </h2>  
